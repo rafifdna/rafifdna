@@ -1,4 +1,4 @@
-# Hi I'm Rafif! I am Seasonal Site Reliability Engineer 👋🏼
+# Hi I'm Rafif! I like designed System for better future 👋🏼
 
 🛜 I am currently working on my own [Website](https://rafifdna.github.io)<br>👨🏼‍🎓 I am studying at Universitas Gadjah Mada<br>👨🏼‍💻 I am an Ex Site Reliability Engineer at Elitery<br>
 
